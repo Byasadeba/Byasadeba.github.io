@@ -317,6 +317,11 @@ html {
     background-color: #a43f49;
     margin: 10px auto;
 }
+.left-text h2 { 
+    font-size: 28px;
+    font-weight: 700;
+    color: #fff;
+}
 
 .section-heading span {
     margin-top: 5px;
@@ -370,6 +375,12 @@ button:hover {
 /* Left & Right Post */
 
 .right-image-post {
+    margin-top: 60px;
+    padding-top: 60px;
+    border-top: 2px solid rgba(250, 250, 250, 0.1);
+}
+
+.left-image-post {
     margin-top: 60px;
     padding-top: 60px;
     border-top: 2px solid rgba(250, 250, 250, 0.1);
